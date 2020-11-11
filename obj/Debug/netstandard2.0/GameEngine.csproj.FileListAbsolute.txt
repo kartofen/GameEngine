@@ -1,0 +1,9 @@
+F:\GitRepos\Console\FirstPersonShooter\GameEngine\bin\Debug\netstandard2.0\GameEngine.deps.json
+F:\GitRepos\Console\FirstPersonShooter\GameEngine\bin\Debug\netstandard2.0\GameEngine.dll
+F:\GitRepos\Console\FirstPersonShooter\GameEngine\bin\Debug\netstandard2.0\GameEngine.pdb
+F:\GitRepos\Console\FirstPersonShooter\GameEngine\obj\Debug\netstandard2.0\GameEngine.csprojAssemblyReference.cache
+F:\GitRepos\Console\FirstPersonShooter\GameEngine\obj\Debug\netstandard2.0\GameEngine.AssemblyInfoInputs.cache
+F:\GitRepos\Console\FirstPersonShooter\GameEngine\obj\Debug\netstandard2.0\GameEngine.AssemblyInfo.cs
+F:\GitRepos\Console\FirstPersonShooter\GameEngine\obj\Debug\netstandard2.0\GameEngine.csproj.CoreCompileInputs.cache
+F:\GitRepos\Console\FirstPersonShooter\GameEngine\obj\Debug\netstandard2.0\GameEngine.dll
+F:\GitRepos\Console\FirstPersonShooter\GameEngine\obj\Debug\netstandard2.0\GameEngine.pdb
